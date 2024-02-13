@@ -1,0 +1,165 @@
+Условие:
+Имеется файл размером 1 тб, состоящий из строк.
+Задача:
+Нужно написать программу, которая сможет отсортировать этот файл на машине,
+которой
+доступно 500мб ОЗУ.
+Тестовое задание необходимо залить в гит, прислать ссылкой.
+Responsibly empowering developers with AI on MDN
+blog.mozilla.org
+blog.mozilla.org
+7 months ago
+Introducing AI Help: Your Trusted Companion for Web Development
+developer.mozilla.org
+Человек если возжаждал некоей;
+Наслаждений умеет представление;
+Никакого представление за никого;
+Никого из заниматься с всю некое;
+Как что раз вы примером представление;
+Нет постигают поняли наслаждение;
+Ни возжаждал никто;
+Заниматься неприятностей когда людей предпочел;
+Избегал какими но;
+Было упражнениями зодчим само возникают;
+Мог умеет нет страдание великие;
+Никого если лишь как кто перед несло;
+Никто превратное воспользоваться равно предпочел;
+Мог нас несло постигают перед;
+Бы возникают собой бы;
+Великие лишь боль только примером того;
+Представление равно постигают само;
+Представление которого раскрою как вы избегал;
+Постигают возлюбил счастливой упражнениями наслаждения физическими только;
+Пользы по разумно великие назвал;
+Жизни ни действительно восхваляющих;
+Говорил чтобы открывший избегал страдания или;
+И отвергает нас чтобы всю приносило;
+Нас а чтобы приносят а открывший не;
+Постигают представление раз которого;
+Ни наслаждению чтобы;
+Как только разумно назвал;
+Потому немалое справедливости никакого равно обстоятельства;
+Представление упражнениями которого действительно;
+Раскрою великие избегает именно постигают было великие;
+Нас открывший страдание было наслаждению поняли;
+Приносят тягостными наслаждение;
+Откуда раскрою никакого порицающих то вы некое;
+Восхваляющих несло предаваться жизни отвергает возлюбил за;
+Возникают великие счастливой откуда с ни заниматься;
+Раскрою пользы примером какими предаваться вами это;
+Несло никого возжаждал возлюбил;
+Возникает раз предаваться перед;
+Действительно вы именно чтобы всю;
+Возникает потому великие я счастливой стремящегося всю;
+Не было предаваться страдание тягостными откуда;
+Равно это предпочел человек великие перед;
+Некое чтобы пользы приносят;
+Бы ни именно по простейшим отвергает;
+Вы порицающих страдания человек некоей это по;
+Картину никаких с тягостными;
+Упрекнуть стремящегося воспользоваться открывший;
+Истину что нет возникает;
+Физическими отвергает никого;
+Счастливой стремящегося такие из стал представление перед;
+За мог я;
+Картину никто возникает действительно упражнениями ни возлюбил;
+Никакого избегает чтобы возникает;
+Картину тягостными справедливости счастливой потому а;
+Нас такого простейшим назвал умеет пользы стал;
+Жизни какими само раскрою говорил за;
+Наслаждения говорил примером неприятностей заниматься вы я;
+Этот воспользоваться eсли;
+Наслаждений я из-за картину;
+Поняли но предаваться возникают это предпочел избегал;
+
+8 months ago
+Introducing the MDN Playground: Bring your code to life!
+developer.mozilla.org
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Praesent scelerisque tellus at aliquet eleifend.
+Vestibulum pulvinar libero non euismod hendrerit.
+In ullamcorper ligula ac maximus tristique.
+Ut id orci fermentum, mollis tellus nec, ullamcorper arcu.
+Curabitur venenatis metus nec tellus vestibulum, lobortis porttitor libero molestie.
+Vivamus at leo ut mi vehicula fermentum.
+Fusce at orci malesuada lacus convallis pellentesque.
+Pellentesque semper tellus et ligula feugiat, ut commodo nulla dignissim.
+Nulla eu ante a metus lacinia malesuada.
+Pellentesque vestibulum erat vel lectus tristique pharetra.
+Cras quis est vitae sapien bibendum faucibus in vitae est.
+Mauris condimentum neque quis molestie fermentum.
+Nullam blandit velit molestie suscipit rutrum.
+Praesent eu ante et mauris mattis scelerisque ut ut arcu.
+Quisque lobortis ipsum et dolor posuere, a porttitor urna tempor.
+Pellentesque consequat massa vel consectetur venenatis.
+Morbi sit amet elit imperdiet, egestas magna in, facilisis arcu.
+Etiam sollicitudin purus eget sem viverra tristique.
+Maecenas eu magna placerat, efficitur ligula eget, placerat nibh.
+Nulla ullamcorper tortor quis diam faucibus efficitur.
+Etiam efficitur lorem eleifend fringilla feugiat.
+Nam eu neque eu leo blandit auctor.
+Cras sollicitudin velit et hendrerit imperdiet.
+Nam fringilla nulla in massa condimentum, in scelerisque mauris pellentesque.
+Etiam vel enim viverra, interdum orci quis, viverra mi.
+Suspendisse malesuada velit ac fermentum mollis.
+Praesent et ligula maximus, mollis eros in, posuere metus.
+Sed posuere tortor bibendum bibendum facilisis.
+Sed pretium justo pretium tincidunt fringilla.
+Nunc sodales est a nibh bibendum dapibus.
+Nulla condimentum orci convallis, interdum augue sit amet, sodales nunc.
+Curabitur porta tellus sed quam congue, id tempus metus consequat.
+Phasellus laoreet risus eu elementum dignissim.
+Maecenas facilisis risus vel tellus mattis, et pulvinar mi tristique.
+Sed vel mauris in mauris ultrices scelerisque ac vel velit.
+Sed suscipit erat in purus dignissim sagittis.
+Vestibulum id mauris sed ante porttitor pulvinar.
+Donec vel risus et ipsum egestas tempor nec a felis.
+Praesent non lorem aliquet, condimentum nibh vitae, tincidunt urna.
+Morbi interdum lectus non sem commodo, in dapibus lacus porta.
+Curabitur vel sem ornare, suscipit enim in, consequat sapien.
+Pellentesque finibus nulla at dignissim molestie.
+Cras placerat tortor in massa euismod bibendum.
+Ut blandit dui sed laoreet imperdiet.
+Proin at orci posuere, dapibus lacus pharetra, dignissim nulla.
+Praesent eu enim quis risus ullamcorper sagittis non in purus.
+Phasellus non lorem bibendum sem pretium efficitur.
+Donec sit amet nisl lacinia, ullamcorper velit quis, tempus mi.
+Nunc id libero laoreet, tempus nunc a, bibendum libero.
+Fusce ut velit sed lacus bibendum vulputate.
+Praesent interdum mi at risus consectetur, a finibus nibh gravida.
+Pellentesque nec nulla volutpat, condimentum est a, efficitur nibh.
+Proin eu nunc nec orci elementum aliquet eget at nisl.
+Proin in nisi semper tellus pretium suscipit in in nisl.
+Cras in leo auctor, pretium nibh eu, posuere tellus.
+Fusce ut orci at mi ornare aliquam.
+Morbi vulputate massa vel velit varius gravida.
+Nam nec mi fermentum, sodales turpis eget, tincidunt nisl.
+Cras et tellus id nisi malesuada interdum eget scelerisque metus.
+Nullam cursus justo non erat accumsan, ac vulputate lectus rutrum.
+Integer id magna ac lectus posuere cursus vel a lacus.
+Aliquam interdum massa at vehicula rhoncus.
+Sed commodo lorem at nulla pulvinar faucibus.
+Curabitur sagittis velit et lacus aliquam vulputate.
+Praesent vel turpis ut nulla condimentum sagittis hendrerit quis nulla.
+Aliquam sit amet enim id urna egestas volutpat a eget ipsum.
+In et quam at risus tempus ultricies.
+Suspendisse eget arcu tempus diam lacinia convallis.
+Duis ultricies diam eu efficitur malesuada.
+Curabitur vulputate nisi vitae lacinia iaculis.
+Nullam ut ipsum sed nunc tristique commodo.
+Nam sed felis convallis, malesuada ipsum sed, auctor justo.
+Etiam lacinia sem quis enim fringilla scelerisque nec nec magna.
+Nunc sollicitudin eros a dolor porta luctus.
+Maecenas mattis nulla et nulla ullamcorper aliquet.
+Fusce pellentesque lectus quis venenatis scelerisque.
+Morbi lacinia ante id urna fermentum lobortis.
+Donec vitae risus accumsan, dapibus tellus sit amet, rhoncus leo.
+Fusce in tellus quis enim convallis dictum.
+Phasellus semper nulla et augue laoreet, quis mattis erat consequat.
+Phasellus in sapien lobortis, faucibus justo sed, aliquam elit.
+Sed aliquam elit et tempor euismod.
+Mauris quis velit quis odio consequat placerat at ut metus.
+Vestibulum placerat nibh sit amet arcu aliquet tempor.
+Ut quis nunc et mauris tincidunt commodo nec vel magna.
+Praesent vitae tortor pulvinar, vulputate massa nec, laoreet nibh.
+Sed ac turpis eget risus vulputate scelerisque vel et felis.

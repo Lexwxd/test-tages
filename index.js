@@ -15,7 +15,6 @@ async function main() {
       let index = 1
       for await (const line of rl) {
          if (!lineIndexArr.includes(index) && (bufferStringForWrite.data == null || line.localeCompare(bufferStringForWrite.data) < 0)) {
-            console.log(line)
             bufferStringForWrite = { data: line, index: index }
          }
          index++
